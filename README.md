@@ -14,4 +14,6 @@ available from here: https://www.greenfoot.org/site/download_source.
 2. Start on the [Tutorials](https://www.greenfoot.org/doc).
 3. Download [installer](https://www.greenfoot.org/download).
 
-Greenfoot adds an engaging game environment for teaching Object-Oriented programming with Java by creating custom Actors and Worlds.
+Greenfoot provides an easy-to-use game environment for teaching Object-Oriented programming with Java.
+
+Developers create custom Actors and Worlds.
