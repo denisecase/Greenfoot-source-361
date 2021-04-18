@@ -14,6 +14,14 @@ available from here: https://www.greenfoot.org/site/download_source.
 2. Start on the [Tutorials](https://www.greenfoot.org/doc).
 3. Download [installer](https://www.greenfoot.org/download).
 
+## Explore the Wombat Tutorial
+
+1. Download the tutorial scenario [wombats.gfar](./scenario-tutorial/wombats.gfar)
+2. Start Greenfoot app. 
+3. Click Scenario / Open GFAR.. / locate the gfar you downloaded and open.
+4. If asked, click Update automatically to update the scenario to version 3.6.  
+5. Follow the [tutorial](https://www.greenfoot.org/doc/tut-1).
+
 Greenfoot provides an easy-to-use game environment for teaching Object-Oriented programming with Java.
 
 Developers create custom Actors and Worlds.
