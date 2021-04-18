@@ -10,9 +10,9 @@ available from here: https://www.greenfoot.org/site/download_source.
 
 ## Get Started
 
-1. Read the [Overview](https://www.greenfoot.org/overview).
-2. Start on the [Tutorials](https://www.greenfoot.org/doc).
-3. Download [installer](https://www.greenfoot.org/download).
+1. Explore the [Overview](https://www.greenfoot.org/overview).
+2. Explore the [Tutorials](https://www.greenfoot.org/doc).
+3. Download [Installer](https://www.greenfoot.org/download) and install. 
 
 ## Explore the Wombat Tutorial
 
